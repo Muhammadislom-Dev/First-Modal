@@ -1,0 +1,48 @@
+.section-button{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    background-color: aqua;
+    font-size: 25px;
+    line-height: 25px;
+    color: dodgerblue;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.section-dialog{
+    width: 800px;
+    height: 630px;
+    background-color: rgb(204, 186, 162);
+    border: 2px solid rgb(204, 186, 162);
+    border-radius: 10px;
+}
+.section-img{
+    width: 350px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+.section-page{
+    padding: 30px;
+}
+.section-btn{
+    width: 170px;
+    margin: 20px;
+    height: 45px;
+    background-color: aqua;
+    font-size: 25px;
+    line-height: 25px;
+    color: dodgerblue;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.section-name{
+    text-align: center;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    color: white;
+}

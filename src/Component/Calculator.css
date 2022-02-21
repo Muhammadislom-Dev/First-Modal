@@ -1,0 +1,75 @@
+body{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  }
+  .button{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    background-color: aqua;
+    font-size: 25px;
+    line-height: 25px;
+    color: dodgerblue;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  .page{
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .dialog{
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    border: 3px solid dodgerblue;
+    border-radius: 15px;
+    background-color: beige;
+  }
+  .form-control{
+    width: 350px;
+    height: 40px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+  }
+  .form-controll{
+    width: 350px;
+    height: 40px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    margin-left: -25px;
+  }
+  button:hover{
+    background-color: rgb(11, 129, 184);
+    transition: 1s;
+    color: rgba(143, 201, 105, 0.712);
+  }
+  .btn{
+    width: 130px;
+    height: 40px;
+    background-color: aqua;
+    font-size: 25px;
+    line-height: 25px;
+    color: dodgerblue;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    margin: 20px;
+    margin-right: 330px;
+  
+  }
+  .form{
+    text-align: center;
+  }
+  .form-floating{
+    padding: 10px;
+  }
+  .pictures{
+    width: 250px;
+    height: 230px;
+    border-radius: 50%;
+  }
+  .box{
+    margin-top: 250px;
+    text-align: center;
+  }
+

@@ -1,0 +1,74 @@
+.container{
+    width: 1140px;
+    margin:  0 auto;
+}
+
+.header-button{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    background-color: aqua;
+    font-size: 25px;
+    line-height: 25px;
+    color: dodgerblue;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.header-img{
+    width: 120px;
+    height: 70px;
+    margin: 8px;
+}
+.header-dialog{
+    width: 400px;
+    border: 2px solid antiquewhite;
+}
+.header-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.header-visa{
+    width: 170px;
+    margin: 10px;
+    border: 1px solid rgba(0,0,0,.2);
+    cursor: pointer
+}
+.header-textss{
+    font-size: 18px;
+    line-height: 20px;
+    margin: 8px;
+}
+.header-page{
+    margin: 20px;
+}
+.header-text{
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 400;
+    opacity: 0.3;
+}
+.header-name{
+    margin: 20px;
+    font-weight: 600;
+    line-height: 25px;
+}
+.header-texts{
+    font-size: 22px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+.header-btn{
+    width: 170px;
+    margin: 20px;
+    height: 45px;
+    background-color: aqua;
+    font-size: 25px;
+    line-height: 25px;
+    color: dodgerblue;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    font-weight: 600;
+}

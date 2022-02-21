@@ -1,0 +1,50 @@
+.box{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+.box-button{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    background-color: aqua;
+    font-size: 25px;
+    line-height: 25px;
+    color: dodgerblue;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.box-img{
+    width: 75px;
+    height: 80px;
+
+}
+.box-pic{
+    text-align: center;
+}
+.box-text{
+    text-align: center;
+    font-size: 24px;
+    line-height: 25px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.box-dialog{
+    width: 350px;
+    border-radius: 10px;
+    border: 2px solid antiquewhite;
+}
+
+.Box-page{
+    text-align: center;
+}
+.box-btn{
+    width: 110px;
+    height: 40px;
+    font-size: 22px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+}
+    
